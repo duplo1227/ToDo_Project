@@ -150,10 +150,6 @@ ul {
   display: flex;
   align-items: end;
 }
-.priority-select::before {
-  flex-grow: 1;
-}
 #connector {
   display: flex;
-  
 }
